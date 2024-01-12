@@ -3,3 +3,15 @@
 
 - https://github.com/software-engineering-lab-fall-2023/tdd
 - https://github.com/web-programming-fall-2022/digivision-backend
+
+
+# پرسش ها
+## سوال ۱
+### ۱.۱
+پوشه .git  جز اصلی ریپازیتوری گیت است که همه  اطلاعات مورد نیاز برای ورژن کنترل را در  خود دارد.
+
+### ۱.۲
+ این پوشه شامل object ها و رفرنس ها و head و index و configfile و غیری میباشد.
+ 
+### ۱.۳
+این پوشه با دستور git init ساخته میشود.
